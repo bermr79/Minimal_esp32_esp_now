@@ -4,7 +4,8 @@
             "name": "Win32",
             "includePath": [
                 "${workspaceFolder}/**",
-                "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src"
+                "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
+                "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/cores/esp32"
             ],
             "defines": [
                 "_DEBUG",
