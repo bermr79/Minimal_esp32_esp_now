@@ -13,7 +13,7 @@ void loop() {
 }
 
 void Mimac() {
-  Serial.println("MiMAC:");
+  Serial.print("MiMAC_> ");
   Serial.println(WiFi.macAddress());
   delay(5000);
 }
