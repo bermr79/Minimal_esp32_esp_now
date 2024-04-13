@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/bermr/OneDrive/Documentos/PlatformIO/Projects/esp_32_minimal_project/include",
-                "C:/Users/bermr/OneDrive/Documentos/PlatformIO/Projects/esp_32_minimal_project/src",
+                "C:/GitHub/Projects/esp_32_minimal_project/include",
+                "C:/GitHub/Projects/esp_32_minimal_project/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -238,8 +238,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/bermr/OneDrive/Documentos/PlatformIO/Projects/esp_32_minimal_project/include",
-                    "C:/Users/bermr/OneDrive/Documentos/PlatformIO/Projects/esp_32_minimal_project/src",
+                    "C:/GitHub/Projects/esp_32_minimal_project/include",
+                    "C:/GitHub/Projects/esp_32_minimal_project/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
