@@ -9,7 +9,7 @@
             "name": "PlatformIO",
             "includePath": [
                 "C:/GitHub/Projects/esp_32_minimal_project/include",
-                "C:/GitHub/Projects/esp_32_minimal_project",
+                "C:/GitHub/Projects/esp_32_minimal_project/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -201,7 +201,6 @@
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/qio_qspi/include",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/variants/uPesy_esp32_wroom_devkit",
-                "C:/GitHub/Projects/esp_32_minimal_project/dependencies/minimal_esp32_project/U8g2/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
@@ -240,7 +239,7 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "C:/GitHub/Projects/esp_32_minimal_project/include",
-                    "C:/GitHub/Projects/esp_32_minimal_project",
+                    "C:/GitHub/Projects/esp_32_minimal_project/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
@@ -432,7 +431,6 @@
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/qio_qspi/include",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/variants/uPesy_esp32_wroom_devkit",
-                    "C:/GitHub/Projects/esp_32_minimal_project/dependencies/minimal_esp32_project/U8g2/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "C:/Users/bermr/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",

@@ -26,7 +26,7 @@ void Mimac() {
   }
 
   // Imprimir el arreglo de bytes
-  Serial.print("El resultado mi broadcastAddres: { ");
+  Serial.print("broadcastAddres: { ");
   for (int i = 0; i < 6; i++) {
     Serial.print("0x");
     Serial.print(arreglo[i], HEX);
